@@ -12,7 +12,7 @@
 		"interval": 3600000
 	},
 	"logFailedPings": true,
-	"logToDatabase": false,
+	"logToDatabase": true,
 	"graphDuration": 86400000,
 	"serverGraphDuration": 180000,
 	"infoApi": "https://servers-frontend.fivem.net/api/servers/single"
