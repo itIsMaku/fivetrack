@@ -1,7 +1,7 @@
 {
-  "name": "minetrack",
+  "name": "fivetrack",
   "version": "5.6.1",
-  "description": "A Minecraft server tracker that lets you focus on the basics.",
+  "description": "Fork of Minetrack with FiveM support",
   "dependencies": {
     "axios": "^1.7.7",
     "finalhandler": "^1.1.2",
@@ -16,17 +16,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cryptkeeper/Minetrack.git"
+    "url": "git+https://github.com/itIsMaku/fivetrack.git"
   },
   "keywords": [
-    "minetrack"
+    "minetrack",
+    "fivetrack"
   ],
   "author": "Nick Krecklow <hello@npm.nklow.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Cryptkeeper/Minetrack/issues"
+    "url": "https://github.com/itIsMaku/fivetrack/issues"
   },
-  "homepage": "https://github.com/Cryptkeeper/Minetrack#README",
+  "homepage": "https://github.com/itIsMaku/fivetrack#README",
   "engines": {
     "node": ">=12.4.0"
   },
