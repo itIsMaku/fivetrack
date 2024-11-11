@@ -5,8 +5,38 @@
 		"type": "PC"
 	},
 	{
+		"name": "Pohodáři WL",
+		"ip": "bl7gd8",
+		"type": "PC"
+	},
+	{
 		"name": "Community",
 		"ip": "ae9yk9",
+		"type": "PC"
+	},
+	{
+		"name": "Unity RP",
+		"ip": "br6b4p",
+		"type": "PC"
+	},
+	{
+		"name": "CrystalRP",
+		"ip": "o5j3br",
+		"type": "PC"
+	},
+	{
+		"name": "Vinewood RP",
+		"ip": "pprvvy",
+		"type": "PC"
+	},
+	{
+		"name": "MNRP",
+		"ip": "4eedg9",
+		"type": "PC"
+	},
+	{
+		"name": "The Rise Of Reflex",
+		"ip": "q4gav4",
 		"type": "PC"
 	}
 ]
