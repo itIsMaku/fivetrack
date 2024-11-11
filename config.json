@@ -4,7 +4,7 @@
 		"ip": "0.0.0.0"
 	},
 	"rates": {
-		"pingAll": 3000,
+		"pingAll": 10000,
 		"connectTimeout": 2500
 	},
 	"oldPingsCleanup": {
