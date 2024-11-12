@@ -60,6 +60,7 @@ export class SocketManager {
           }
 
           payload.servers.forEach((serverPayload, serverId) => {
+            serverPayload.favicon = payload.config.servers[serverId].favicon
             this._app.addServer(serverId, serverPayload, payload.timestampPoints)
           })
 
