@@ -14,7 +14,7 @@
 	"logFailedPings": true,
 	"logToDatabase": true,
 	"graphDuration": 86400000,
-	"serverGraphDuration": 180000,
+	"serverGraphDuration": 3600000,
     "api": {
         "info": "https://servers-frontend.fivem.net/api/servers/single",
         "icon": "https://servers-frontend.fivem.net/api/servers/icon"
